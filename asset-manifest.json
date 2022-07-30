@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Threejs-Fiber-Drei/static/css/main.ba60430c.css",
+    "main.js": "/Threejs-Fiber-Drei/static/js/main.5d0768f6.js",
+    "static/js/787.dcdd7d3f.chunk.js": "/Threejs-Fiber-Drei/static/js/787.dcdd7d3f.chunk.js",
+    "static/media/box.jpg": "/Threejs-Fiber-Drei/static/media/box.db6cd6d97264e7d651a3.jpg",
+    "index.html": "/Threejs-Fiber-Drei/index.html",
+    "main.ba60430c.css.map": "/Threejs-Fiber-Drei/static/css/main.ba60430c.css.map",
+    "main.5d0768f6.js.map": "/Threejs-Fiber-Drei/static/js/main.5d0768f6.js.map",
+    "787.dcdd7d3f.chunk.js.map": "/Threejs-Fiber-Drei/static/js/787.dcdd7d3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba60430c.css",
+    "static/js/main.5d0768f6.js"
+  ]
+}
