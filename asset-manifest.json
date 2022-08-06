@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Threejs-Fiber-Drei/static/css/main.62fa5a8b.css",
-    "main.js": "/Threejs-Fiber-Drei/static/js/main.9838d355.js",
+    "main.css": "/Threejs-Fiber-Drei/static/css/main.3eb5f438.css",
+    "main.js": "/Threejs-Fiber-Drei/static/js/main.8353baf3.js",
     "static/js/787.d3816351.chunk.js": "/Threejs-Fiber-Drei/static/js/787.d3816351.chunk.js",
     "static/media/box.jpg": "/Threejs-Fiber-Drei/static/media/box.db6cd6d97264e7d651a3.jpg",
     "index.html": "/Threejs-Fiber-Drei/index.html",
-    "main.62fa5a8b.css.map": "/Threejs-Fiber-Drei/static/css/main.62fa5a8b.css.map",
-    "main.9838d355.js.map": "/Threejs-Fiber-Drei/static/js/main.9838d355.js.map",
+    "main.3eb5f438.css.map": "/Threejs-Fiber-Drei/static/css/main.3eb5f438.css.map",
+    "main.8353baf3.js.map": "/Threejs-Fiber-Drei/static/js/main.8353baf3.js.map",
     "787.d3816351.chunk.js.map": "/Threejs-Fiber-Drei/static/js/787.d3816351.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.62fa5a8b.css",
-    "static/js/main.9838d355.js"
+    "static/css/main.3eb5f438.css",
+    "static/js/main.8353baf3.js"
   ]
 }
