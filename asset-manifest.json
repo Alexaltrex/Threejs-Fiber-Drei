@@ -1,16 +1,31 @@
 {
   "files": {
-    "main.css": "/Threejs-Fiber-Drei/static/css/main.3eb5f438.css",
-    "main.js": "/Threejs-Fiber-Drei/static/js/main.8353baf3.js",
+    "main.css": "/Threejs-Fiber-Drei/static/css/main.3f96f440.css",
+    "main.js": "/Threejs-Fiber-Drei/static/js/main.556c5ae7.js",
     "static/js/787.d3816351.chunk.js": "/Threejs-Fiber-Drei/static/js/787.d3816351.chunk.js",
+    "static/media/10.jpg": "/Threejs-Fiber-Drei/static/media/10.8ddc3c524318f27ce2b5.jpg",
+    "static/media/8.jpg": "/Threejs-Fiber-Drei/static/media/8.9fffda4c9112d5d02c0b.jpg",
+    "static/media/11.jpg": "/Threejs-Fiber-Drei/static/media/11.cca02ab846ac9bdfbaa5.jpg",
+    "static/media/5.jpg": "/Threejs-Fiber-Drei/static/media/5.fb1d6ea571227b9b7ac5.jpg",
+    "static/media/15.jpg": "/Threejs-Fiber-Drei/static/media/15.37c58624021a1700bec4.jpg",
+    "static/media/14.jpg": "/Threejs-Fiber-Drei/static/media/14.45d4db06ccf4d4c7c805.jpg",
+    "static/media/12.jpg": "/Threejs-Fiber-Drei/static/media/12.763eab33942509d3e144.jpg",
+    "static/media/4.jpg": "/Threejs-Fiber-Drei/static/media/4.ad34b18e4efab6fd663a.jpg",
+    "static/media/6.jpg": "/Threejs-Fiber-Drei/static/media/6.1ab4da3d935ddee02e5a.jpg",
+    "static/media/16.jpg": "/Threejs-Fiber-Drei/static/media/16.8a8f89e6a589ee0ce533.jpg",
+    "static/media/13.jpg": "/Threejs-Fiber-Drei/static/media/13.188c78e769c887894b78.jpg",
+    "static/media/19.jpg": "/Threejs-Fiber-Drei/static/media/19.c349fdd4e160b878930c.jpg",
+    "static/media/9.jpg": "/Threejs-Fiber-Drei/static/media/9.5da5703fcbb3d6391510.jpg",
+    "static/media/1.jpg": "/Threejs-Fiber-Drei/static/media/1.8b73a3a245d3c9b68d2d.jpg",
+    "static/media/2.jpg": "/Threejs-Fiber-Drei/static/media/2.3413f061956f7022eddc.jpg",
     "static/media/box.jpg": "/Threejs-Fiber-Drei/static/media/box.db6cd6d97264e7d651a3.jpg",
     "index.html": "/Threejs-Fiber-Drei/index.html",
-    "main.3eb5f438.css.map": "/Threejs-Fiber-Drei/static/css/main.3eb5f438.css.map",
-    "main.8353baf3.js.map": "/Threejs-Fiber-Drei/static/js/main.8353baf3.js.map",
+    "main.3f96f440.css.map": "/Threejs-Fiber-Drei/static/css/main.3f96f440.css.map",
+    "main.556c5ae7.js.map": "/Threejs-Fiber-Drei/static/js/main.556c5ae7.js.map",
     "787.d3816351.chunk.js.map": "/Threejs-Fiber-Drei/static/js/787.d3816351.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3eb5f438.css",
-    "static/js/main.8353baf3.js"
+    "static/css/main.3f96f440.css",
+    "static/js/main.556c5ae7.js"
   ]
 }
