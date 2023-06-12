@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Threejs-Fiber-Drei/static/css/main.3d9c1ecf.css",
-    "main.js": "/Threejs-Fiber-Drei/static/js/main.591fa695.js",
+    "main.css": "/Threejs-Fiber-Drei/static/css/main.2fbdd2d5.css",
+    "main.js": "/Threejs-Fiber-Drei/static/js/main.221fbaeb.js",
     "static/js/787.d3816351.chunk.js": "/Threejs-Fiber-Drei/static/js/787.d3816351.chunk.js",
     "static/media/10.jpg": "/Threejs-Fiber-Drei/static/media/10.8ddc3c524318f27ce2b5.jpg",
     "static/media/17.jpg": "/Threejs-Fiber-Drei/static/media/17.e8fd95b1d7b3e1cf61d7.jpg",
@@ -15,8 +15,10 @@
     "static/media/Skeleton spheres - autorotate.jpg": "/Threejs-Fiber-Drei/static/media/Skeleton spheres - autorotate.c69f22eca61c41cb023b.jpg",
     "static/media/4.jpg": "/Threejs-Fiber-Drei/static/media/4.ad34b18e4efab6fd663a.jpg",
     "static/media/6.jpg": "/Threejs-Fiber-Drei/static/media/6.1ab4da3d935ddee02e5a.jpg",
+    "static/media/starSkyRotate.jpg": "/Threejs-Fiber-Drei/static/media/starSkyRotate.880c3f420c8472ca522f.jpg",
     "static/media/16.jpg": "/Threejs-Fiber-Drei/static/media/16.8a8f89e6a589ee0ce533.jpg",
     "static/media/13.jpg": "/Threejs-Fiber-Drei/static/media/13.188c78e769c887894b78.jpg",
+    "static/media/ethersRain.jpg": "/Threejs-Fiber-Drei/static/media/ethersRain.a47e2570434ea60b08d5.jpg",
     "static/media/23.jpg": "/Threejs-Fiber-Drei/static/media/23.5efd873c138f35a2f3a7.jpg",
     "static/media/19.jpg": "/Threejs-Fiber-Drei/static/media/19.c349fdd4e160b878930c.jpg",
     "static/media/cloud.jpg": "/Threejs-Fiber-Drei/static/media/cloud.653a150032a6abc6a5ad.jpg",
@@ -27,12 +29,12 @@
     "static/media/2.jpg": "/Threejs-Fiber-Drei/static/media/2.650d6852cee5afb1944c.jpg",
     "static/media/box.jpg": "/Threejs-Fiber-Drei/static/media/box.db6cd6d97264e7d651a3.jpg",
     "index.html": "/Threejs-Fiber-Drei/index.html",
-    "main.3d9c1ecf.css.map": "/Threejs-Fiber-Drei/static/css/main.3d9c1ecf.css.map",
-    "main.591fa695.js.map": "/Threejs-Fiber-Drei/static/js/main.591fa695.js.map",
+    "main.2fbdd2d5.css.map": "/Threejs-Fiber-Drei/static/css/main.2fbdd2d5.css.map",
+    "main.221fbaeb.js.map": "/Threejs-Fiber-Drei/static/js/main.221fbaeb.js.map",
     "787.d3816351.chunk.js.map": "/Threejs-Fiber-Drei/static/js/787.d3816351.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d9c1ecf.css",
-    "static/js/main.591fa695.js"
+    "static/css/main.2fbdd2d5.css",
+    "static/js/main.221fbaeb.js"
   ]
 }
