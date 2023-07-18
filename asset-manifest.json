@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Threejs-Fiber-Drei/static/css/main.2fbdd2d5.css",
-    "main.js": "/Threejs-Fiber-Drei/static/js/main.dfee199f.js",
+    "main.js": "/Threejs-Fiber-Drei/static/js/main.1eaeecfc.js",
     "static/js/787.d3816351.chunk.js": "/Threejs-Fiber-Drei/static/js/787.d3816351.chunk.js",
     "static/media/escher.jpg": "/Threejs-Fiber-Drei/static/media/escher.92172d238eb72d103e5c.jpg",
     "static/media/10.jpg": "/Threejs-Fiber-Drei/static/media/10.8ddc3c524318f27ce2b5.jpg",
@@ -10,16 +10,17 @@
     "static/media/8.jpg": "/Threejs-Fiber-Drei/static/media/8.9fffda4c9112d5d02c0b.jpg",
     "static/media/bloom.jpg": "/Threejs-Fiber-Drei/static/media/bloom.7696653cc664b5582ec5.jpg",
     "static/media/11.jpg": "/Threejs-Fiber-Drei/static/media/11.cca02ab846ac9bdfbaa5.jpg",
+    "static/media/bloom-trail.jpg": "/Threejs-Fiber-Drei/static/media/bloom-trail.e7b41789b516707d0f1a.jpg",
     "static/media/5.jpg": "/Threejs-Fiber-Drei/static/media/5.fb1d6ea571227b9b7ac5.jpg",
     "static/media/Skeleton spheres - scroll.jpg": "/Threejs-Fiber-Drei/static/media/Skeleton spheres - scroll.825c92566b000abbe668.jpg",
     "static/media/15.jpg": "/Threejs-Fiber-Drei/static/media/15.37c58624021a1700bec4.jpg",
+    "static/media/starSkyRotate.jpg": "/Threejs-Fiber-Drei/static/media/starSkyRotate.c51611eff2d96f0115b1.jpg",
     "static/media/14.jpg": "/Threejs-Fiber-Drei/static/media/14.45d4db06ccf4d4c7c805.jpg",
     "static/media/12.jpg": "/Threejs-Fiber-Drei/static/media/12.763eab33942509d3e144.jpg",
     "static/media/Skeleton spheres - autorotate.jpg": "/Threejs-Fiber-Drei/static/media/Skeleton spheres - autorotate.c69f22eca61c41cb023b.jpg",
     "static/media/4.jpg": "/Threejs-Fiber-Drei/static/media/4.ad34b18e4efab6fd663a.jpg",
     "static/media/6.jpg": "/Threejs-Fiber-Drei/static/media/6.1ab4da3d935ddee02e5a.jpg",
     "static/media/ascii.jpg": "/Threejs-Fiber-Drei/static/media/ascii.c71a781cd6c3e4b80cb9.jpg",
-    "static/media/starSkyRotate.jpg": "/Threejs-Fiber-Drei/static/media/starSkyRotate.880c3f420c8472ca522f.jpg",
     "static/media/16.jpg": "/Threejs-Fiber-Drei/static/media/16.8a8f89e6a589ee0ce533.jpg",
     "static/media/13.jpg": "/Threejs-Fiber-Drei/static/media/13.188c78e769c887894b78.jpg",
     "static/media/ethersRain.jpg": "/Threejs-Fiber-Drei/static/media/ethersRain.a47e2570434ea60b08d5.jpg",
@@ -27,6 +28,7 @@
     "static/media/19.jpg": "/Threejs-Fiber-Drei/static/media/19.c349fdd4e160b878930c.jpg",
     "static/media/cloud.jpg": "/Threejs-Fiber-Drei/static/media/cloud.653a150032a6abc6a5ad.jpg",
     "static/media/9.jpg": "/Threejs-Fiber-Drei/static/media/9.5da5703fcbb3d6391510.jpg",
+    "static/media/selected-area.jpg": "/Threejs-Fiber-Drei/static/media/selected-area.aca2379c853ab3641554.jpg",
     "static/media/1.jpg": "/Threejs-Fiber-Drei/static/media/1.8b73a3a245d3c9b68d2d.jpg",
     "static/media/21.jpg": "/Threejs-Fiber-Drei/static/media/21.b89f54e59cfb0f20d242.jpg",
     "static/media/20.jpg": "/Threejs-Fiber-Drei/static/media/20.b15ea1fe6be71e3cd7c1.jpg",
@@ -34,11 +36,11 @@
     "static/media/box.jpg": "/Threejs-Fiber-Drei/static/media/box.db6cd6d97264e7d651a3.jpg",
     "index.html": "/Threejs-Fiber-Drei/index.html",
     "main.2fbdd2d5.css.map": "/Threejs-Fiber-Drei/static/css/main.2fbdd2d5.css.map",
-    "main.dfee199f.js.map": "/Threejs-Fiber-Drei/static/js/main.dfee199f.js.map",
+    "main.1eaeecfc.js.map": "/Threejs-Fiber-Drei/static/js/main.1eaeecfc.js.map",
     "787.d3816351.chunk.js.map": "/Threejs-Fiber-Drei/static/js/787.d3816351.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2fbdd2d5.css",
-    "static/js/main.dfee199f.js"
+    "static/js/main.1eaeecfc.js"
   ]
 }
